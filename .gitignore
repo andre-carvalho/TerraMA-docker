@@ -5,7 +5,7 @@ __pycache__/
 
 # Generated files
 conf/terrama2_webapp.json
-terrama2/Dockerfile
+#terrama2/Dockerfile
 webapp/Dockerfile
 webmonitor/Dockerfile
 
